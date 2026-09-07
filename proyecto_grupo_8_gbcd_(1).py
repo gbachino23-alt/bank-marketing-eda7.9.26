@@ -587,7 +587,7 @@ plt.show()
 > **Nota importante**: el dataset está desbalanceado (88.3% / 11.7%). Cuando construyamos el modelo de Machine Learning, vamos a necesitar técnicas especiales para que el modelo aprenda bien a identificar los clientes que SÍ suscriben.
 """
 
-!pip install streamlit pyngrok pyarrow -q
+
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
